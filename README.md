@@ -72,10 +72,10 @@ python face_attendance.py
 Attendance will be saved in students.csv.
 
 🎯 Output Example
-Registration No.	Name	Entry Time
-19BCE10191	Hardik	09:10:39
-19BCE10118	Nishant	09:12:15
-19BCE10119	Ankit	09:12:57
+Registration No.    	Name	      Entry Time
+19BCE10191          	Hardik	    09:10:39
+19BCE10118	          Nishant	    09:12:15
+19BCE10119	          Ankit   	  09:12:57
 
 📌 Results & Discussion
 ✅ Supports multi-person face recognition in real-time.
