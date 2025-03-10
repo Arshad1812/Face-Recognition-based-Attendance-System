@@ -62,7 +62,7 @@ pip install opencv-python numpy pandas pyttsx3 face_recognition
 
 Place images inside the student_faces folder.
 Format: Name_RegistrationNo.jpg
-(e.g., Arshad_19BCE10191.jpg)
+(e.g., Std_19BCE10191.jpg)
 
 4️⃣ Run the Attendance System
 
